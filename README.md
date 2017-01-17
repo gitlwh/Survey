@@ -29,7 +29,7 @@ This is one online survey app from Lehigh CSE303 course.
 4. Go to `your IP:8080` to begin answer questions.
 
 ## Technology stack
-HTML5, CSS3, Javascript, Bootstrap, AngularJS, MongoDB, Memcached
+HTML5, CSS3, Javascript, Bootstrap, AngularJS, MongoDB, Memcached, Google authentication
 
 ## Resources:
 - [Angular Docs](https://docs.angularjs.org/guide)

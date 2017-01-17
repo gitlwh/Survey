@@ -16,11 +16,11 @@ This is one online survey app from Lehigh CSE303 course.
 
 ## How to run?
 1. Install MongoDB and Memcached on your local device or AWS and run them.
-1. Clone the repository
-2. `cd` to the newly cloned project:
-3. Run `npm install` in command line to get the required dependencies
-4. `cd` to config folder to modify the configure of MongoDB, Memcached and Google Registration.
-5. `cd` back to project and run `node server.js`
+2. Clone the repository
+3. `cd` to the newly cloned project:
+4. Run `npm install` in command line to get the required dependencies
+5. `cd` to config folder to modify the configure of MongoDB, Memcached and Google Registration.
+6. `cd` back to project and run `node server.js`
 
 ## What to do when everything is up and running!
 1. Go to `your IP:8080/login` to create an account by clicking on Sign Up button or login with Google account.
